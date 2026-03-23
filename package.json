@@ -1,0 +1,16 @@
+{
+  "name": "mcp-common-crawl",
+  "version": "1.0.0",
+  "description": "MCP server for Common Crawl CDX — backlink discovery, expired domain finder, competitor gap analysis",
+  "main": "index.js",
+  "bin": { "mcp-common-crawl": "./index.js" },
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0"
+  },
+  "keywords": ["mcp", "common-crawl", "backlinks", "seo", "expired-domains", "claude-code"],
+  "author": "Artur Ferreira <artur@thegeolab.net> (https://thegeolab.net)",
+  "license": "MIT"
+}
