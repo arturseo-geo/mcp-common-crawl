@@ -1,7 +1,6 @@
 # mcp-common-crawl
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
-> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **The GEO Lab** · [𝕏 @TheGEO\_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
@@ -17,6 +16,10 @@ MCP server for Common Crawl CDX — backlink discovery, expired domain finder, c
 | `find_expired` | Search for expired/parked domains in a niche via CC CDX |
 | `check_domain` | Deep single domain check — live/expired/parked + CC page count |
 | `competitor_gap` | Find domains linking to competitors but not to you |
+
+## Features
+
+✅ **Production-tested** — patterns used in production at [**TheGEOLab**](https://thegeolab.net)
 
 ## Install
 
@@ -58,7 +61,7 @@ Common Crawl is a free, open web archive. No API keys, no rate limits, no paid t
 
 ## Attributions & Licence
 
-Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**.
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[TheGEOLab](https://thegeolab.net)**.
 
 Email: artur@thegeolab.net
 
