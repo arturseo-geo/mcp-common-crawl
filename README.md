@@ -94,3 +94,7 @@ Found this useful? ⭐ Star the repo and connect:
 ## Licence
 
 MIT — see LICENSE
+
+---
+
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[TheGEOLab](https://thegeolab.net)** · [MIT License](LICENSE)
